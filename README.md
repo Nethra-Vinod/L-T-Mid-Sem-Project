@@ -11,7 +11,7 @@ A prototype autonomous grass-cutting robot powered by an **ESP32 microcontroller
 * **Grass Cutting Mechanism** with a dedicated DC motor driving a blade
 * **Dual DC Motors** for wheel drive, controlled via an L298N H-Bridge
 * **Servo Motor** for sensor rotation (to scan left/right)
-* **ESP32 Wi-Fi** for future IoT expansion (remote monitoring/control)
+* **ESP32 Microcontroller** for remote monitoring/control
 
 ---
 
@@ -34,7 +34,7 @@ A prototype autonomous grass-cutting robot powered by an **ESP32 microcontroller
 2. The **ultrasonic sensor**, mounted on a servo, continuously scans for obstacles.
 3. If an obstacle is detected, the ESP32 makes the mower stop, turn, and continue in a new direction.
 4. A **separate DC motor spins the cutting blade**, enabling grass cutting while the mower moves.
-5. Power is distributed through a **buck converter**, ensuring stable 5V for the ESP32, servo, and sensors.
+5. Power is distributed through a **regulatorr**, ensuring stable 5V for the ESP32, servo, and sensors.
 6. Future improvements can integrate **IoT features** for remote monitoring and scheduling.
 
 ---
