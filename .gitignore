@@ -1,0 +1,17 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+
+# PlatformIO build folder
+.pio
+
+# VSCode settings
+.vscode/
+
+# Mac / Linux system files
+.DS_Store
+*.swp
+
+# Backup files
+*~
