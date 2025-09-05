@@ -54,6 +54,14 @@ See the schematic (included in this repo) for all pin connections and power mana
 
 ---
 
+## 👥 Contributors
+
+- Nethra Vinod 
+- S.Mayuri Darshini
+- MadhavAmrith
+- TejasKumar
+- Thilak
+
 ## 📝 License
 
 This project is open-source and available under the MIT License.
